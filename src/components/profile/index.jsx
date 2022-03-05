@@ -31,6 +31,9 @@ class Profile extends React.Component {
                         <li>
                             <a href="#">Github</a>
                         </li>
+                        <li>
+                            <a href="#">Github</a>
+                        </li>
                     </ul>
                 </div>
             </div>
