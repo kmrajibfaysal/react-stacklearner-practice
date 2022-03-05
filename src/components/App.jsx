@@ -7,6 +7,11 @@ class App extends React.Component {
         return (
             <div>
                 <Profile />
+                {/* <div>
+                    <MyProps name="Faysal" />
+                    <MyProps name="Rajib" />
+                    <MyProps name="olos" />
+                </div> */}
             </div>
         );
     }
